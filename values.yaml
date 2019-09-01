@@ -6,7 +6,7 @@ replicaCount: 2
 
 image:
   repository: mydeveloperplanet/mykubernetesplanet
-  tag: 0.0.4-SNAPSHOT
+  tag: 0.0.10-SNAPSHOT
   pullPolicy: IfNotPresent
 
 nameOverride: ""
